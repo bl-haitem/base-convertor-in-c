@@ -1,0 +1,15 @@
+# depslib dependency file v1.0
+1734682885 source:c:\users\pc\desktop\projet\a&h_lib.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+
+1734682900 source:c:\users\pc\desktop\projet\main.c
+	"A&H_Lib.h"
+
+1734682907 c:\users\pc\desktop\projet\a&h_lib.h
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<math.h>
+
